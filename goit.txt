@@ -1,1 +1,3 @@
 Commit 2 We just add a new row!
+
+Commit 3 We chanded two rows of code

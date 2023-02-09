@@ -8,4 +8,6 @@ Commit 5 Changed tree row in method main
 
 Commit 6 Add new method
 
-Commit 7 Conflict resolved
+Commit 7 Conflict resolved\
+
+Commit 8 for PR
